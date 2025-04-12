@@ -1,7 +1,7 @@
 import { StrictMode } from 'react'
 import React from 'react';
 import { createRoot } from 'react-dom/client'
-import {jsx as _jsx} from "react/jsx-dev-runtime.js"
+//import {jsx as _jsx} from "react/jsx-dev-runtime.js"
 import App from './App.jsx'
 
 
